@@ -1,8 +1,6 @@
 # Problema TLS — Diagnóstico y Solución Completa
 
-**Alumno:** Junior Javier Santos Perez  
-**Matrícula:** 2024-1599  
-**Fecha:** 24 de junio de 2026  
+
 
 ---
 
