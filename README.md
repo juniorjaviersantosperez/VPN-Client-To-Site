@@ -321,3 +321,6 @@ get vpn ssl monitor
 | `ping 10.15.99.2` | ❌ 100% pérdida | ✅ 0% pérdida, ~3-6ms |
 | Interfaz `ppp0` | ❌ No existe | ✅ UP con IP `10.212.134.200` |
 | Sesión en FortiGate | ❌ Sin sesiones | ✅ `vpnuser` activo |
+
+
+Esta práctica fue realizada en un entorno simulado y controlado con fines exclusivamente educativos. Las actividades desarrolladas tienen como único propósito el aprendizaje y la demostración de conceptos técnicos.
